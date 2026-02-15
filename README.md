@@ -1,8 +1,8 @@
 ## Hi, I'm Hyeyeon 👩🏻‍💻🪽
 사용자의 경험에 다정하게 몰입하는 개발자가 되고자 합니다.
 <br><br>
-<img src="https://github.com/user-attachments/assets/1390bfbd-a801-4e3a-9fe6-3646fae786fe" width="200"> 
-<img src="https://github.com/user-attachments/assets/ba3b7588-6088-4252-8133-bc450152d3b0" width="200">
+<img src="https://github.com/user-attachments/assets/1390bfbd-a801-4e3a-9fe6-3646fae786fe" width="300"> 
+<img src="https://github.com/user-attachments/assets/ba3b7588-6088-4252-8133-bc450152d3b0" width="300">
 <br><br><br>
 
 ### 🎓 Education
