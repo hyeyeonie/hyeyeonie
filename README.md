@@ -1,11 +1,10 @@
-## Hi, I'm Hyeyeon 🙌🏻
-iOS Developer building structured user experiences.
+## Hi, I'm Hyeyeon 🌱
+사용자의 경험에 다정하게 몰입하고 싶은 개발자입니다.
 <br><br>
 
 ## Education
 
-🎓 **Seoul Women’s University**  
-Digital Media · Software Convergence (2021.03 — )
+🎓 **서울여자대학교**  디지털미디어학과 | 소프트웨어융합학과 (2021.03 — )
 <br><br>
 
 ## Experience
