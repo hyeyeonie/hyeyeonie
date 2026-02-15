@@ -1,8 +1,8 @@
 ## Hi, I'm Hyeyeon 👩🏻‍💻🪽
 사용자의 경험에 다정하게 몰입하는 개발자가 되고자 합니다.
 <br><br>
-<img src="https://github.com/user-attachments/assets/1390bfbd-a801-4e3a-9fe6-3646fae786fe" width="300"> 
-<img src="https://github.com/user-attachments/assets/ba3b7588-6088-4252-8133-bc450152d3b0" width="300">
+<img src="https://github.com/user-attachments/assets/1390bfbd-a801-4e3a-9fe6-3646fae786fe" width="200"> 
+<img src="https://github.com/user-attachments/assets/ba3b7588-6088-4252-8133-bc450152d3b0" width="200">
 <br><br><br>
 
 ### 🎓 Education
@@ -15,6 +15,17 @@
 `2025.09 ~ 2026.02` | DIVE SOPT 37기 iOS OB  
 `2025.03 ~ 2025.07` | AT SOPT 36기 iOS YB  
 `2024.03 ~ 2024.12` | Apple Developer Academy @ POSTECH 3기 러너
+<br><br>
+
+### 🏆 Awards
+
+`2026.01` | SOPT 37th 데모데이 대상  
+`2025.12` | 서울여자대학교 소프트웨어융합학과 졸업작품 금상
+`2025.11` | 한국멀티미디어학회 추계학술발표대회 우수상
+`2025.11` | 서울여자대학교 창업 아이디어 경진대회 소셜임팩트상  
+`2025.07` | SOPT 36th 데모데이 대상 · 특별상  
+`2023.07` | 서울여자대학교 바롬종합설계프로젝트 우수프로젝트상  
+`2023.07` | SW교육기부단 활동 우수 봉사단
 <br><br>
 
 ### 🌱 Projects
