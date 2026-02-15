@@ -1,4 +1,4 @@
-## Hi, I'm Hyeyeon 🌱
+## Hi, I'm Hyeyeon 👩🏻‍💻🌱
 사용자의 경험에 다정하게 몰입하고 싶은 개발자입니다.
 <br><br>
 
