@@ -32,7 +32,7 @@
 
 | 프로젝트 | 소개 | 주요 구현 내용 | 기술 스택 |
 |---|---|---|---|
-| **Kiero<br>(키어로)** | 초등학생 자녀의 일정 관리와 자기주도적 습관 형성을 돕는 플랫폼 | iOS Developer Lead / 일정(시간표) 관리 기능 구현 / 미션 기반 AI 기능 설계 참여 / 사용자 흐름 중심 화면 구조 설계 | UIKit · iOS Lead · Scheduling · AI Mission |
+| **Kiero<br>(키어로)** | 초등학생 자녀의 일정 관리와 자기주도적 습관 형성을 돕는 플랫폼 | iOS Developer Lead / 일정(시간표) 관리 기능 구현 / 사용자 흐름 중심 화면 구조 설계 | UIKit · iOS Lead · Scheduling · AI Mission |
 | **Hilingual<br>(하이링구얼)** | 하루 한 편, AI 피드백으로 교정받는 영어 일기 서비스 | VisionKit 기반 OCR 이미지 텍스트 인식 / 10MB 이미지 압축 전송 / DIContainer 기반 의존성 관리 / Moya + Combine 비동기 네트워크 처리 | UIKit · Combine · Moya · VisionKit · Clean Architecture |
 | **배우닷<br>(LearnDot)** | 후천적 시각장애인을 위한 점자 학습 서비스 | VoiceOver 최적화 접근성 설계 / 점자 구조 생성 알고리즘 구현 / SwiftData 기반 로컬 데이터 관리 | SwiftUI · Accessibility · SwiftData · MVVM |
 | **MUFE<br>(뮤페)** | 취향 맞춤 타임테이블로 즐기는 뮤직 페스티벌 서비스 | iOS Developer Lead / OpenAI API 기반 취향 분석 및 추천 / SwiftData 오프라인 데이터 관리 | UIKit · OpenAI API · SwiftData · Architecture |
